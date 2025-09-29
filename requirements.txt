@@ -1,0 +1,5 @@
+Flask==2.3.2
+nltk==3.8.1
+
+# Optionally, a production WSGI server
+gunicorn==20.1.0
